@@ -1,0 +1,17 @@
+<Configuration>
+  <Add>
+    <Product ID="O365ProPlusRetail">
+      <Language ID="ja-jp"/>
+      <ExcludeApp ID="Access"/>
+      <ExcludeApp ID="Excel"/>
+      <ExcludeApp ID="Groove"/>
+      <ExcludeApp ID="Lync"/>
+      <ExcludeApp ID="OneDrive"/>
+      <ExcludeApp ID="OneNote"/>
+      <ExcludeApp ID="Outlook"/>
+      <ExcludeApp ID="Publisher"/>
+      <ExcludeApp ID="Teams"/>
+      <ExcludeApp ID="Word"/>
+    </Product>
+  </Add>
+</Configuration>
